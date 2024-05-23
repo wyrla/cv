@@ -6,52 +6,52 @@ title: Paula Nelo's CV
 
 <div id="webaddress">
 <a href="https://www.linkedin.com/in/paula-nelo">Linked In</a>
-| <a href="https://github.com/paulanelo">GitHub</a>
+| <a href="https://github.com/paulanelo">GitHub</a> | paulanelo.dev@gmail.com 
 </div>
 
 ## Atualmente
 
-Pessoa desenvolvedora fullstack pleno
+Full-Stack Software Developer
 
 ### Tecnologias
 
-ES6, Node.js, Typescript, Angular, React.js, MongoDB, Sequelize, K8S, Swagger, TDD, Jest, CSS3, HTML.
+HTML5, JavaScript/TypeScript, React.js, Node.js, Git, TDD, Jest, Kubernetes, Cascading Style Sheets (CSS), MongoDB, AngularJS.
 
 ## Experiências profissionais
 
 `Setembro 2020 - atual`
-__Pessoa desenvolvedora fullstack, TAQE.__
+__Full-Stack Software Developer, TAQE.__
 
-- Desenvolvimento e manutenção de um sistema ATS (Application Tracking System)
-- Atuei como pessoa responsável pela sustentação do sistema, principalmente com atividades de backend e frontend
-- Responsável por especificação de atividades, ritos de SCRUM e acompanhamento de uma das squad de tecnologia
-- Apoio para o desenvolvedores em processo de onboarding.
+Na TAQE atuei como desenvolvedora de software Jr./Pleno, participando ativamente do desenvolvimento e manutenção de sistema legados da empresa, utilizando ferramentas como: angularjs, ionic, angular 2, etc.; também desenvolvi MVPs para o sistema ATS da companhia contribuindo para o aumento 131% de aumento na taxa de presença em entrevistas de um dos clientes da TAQE; além contribuir com projetos mais recentes da empresa utilizando: React, Angular, MongoDB, Node.js, Git, Typescript, Kubernetes, etc., desenvolvendo atividades como:
+
+— Desenvolvimento de funcionalidades para o gerenciamento de candidatos, como: testes dinâmicos, fluxo de convites de entrevistas por whatsapp, etc.
+— Manutenção da plataforma para candidatos, atuando tanto no front-end (html, CSS e frameworks) quanto no back-end (node.js)
+— Suporte para os novos desenvolvedores no processo de onboarding
+— Planejamento e desenvolvimento de novos produtos
 
 `Março 2020 - Setembro 2022`
 __Instrutora Assistente, Digital House__
 
-- Suporte para o Instrutor Principal, realizando atividades como:
-  - gerenciamento das aulas onlines (realizar chamadas, responder dúvidas do chat;
-  - disponibilizar aulas gravadas;
-  - acompanhar os alunos na ferramenta de comunicação interna;
-  - identificar pontos de atenção na sala de aula);
-  - suporte direto a dúvidas com aulas online
-  - correção de exercícios e aplicação de entrevistas durante o processo de onboarding da escola
+Atuei como Instrutora assistente e de co-learning, desempenhando o papel de auxiliar o instrutor generalista em sala de aula (online), assumindo responsabilidades como:
+
+— Gerenciamento dos alunos (realização de chamadas, identificação proativa de pontos de atenção, disponibilização de vídeo aulas)
+— Ponto focal para dúvidas assíncronas
+— Acompanhamento e auxílio técnico durante o projeto final
+— Condução de avaliação durante o processo de onboarding do curso
 
 `Maio 2018 - Maio 2020`
 __Estágio de desenvolvimento, Visual Mix__
 
-- Desenvolvimento de sistemas para postos de combustíveis em *React.js*, envolvendo funcionalidades de relatórios, acompanhamento gestão de bombas
-- Desenvolvimento de serviços com integração com ferramentas de hardware (i.e, leitor de biometria) e manutenção de sistemas legados com tecnologias como: ionic, angularjs.
+Desenvolvimento de interface para soluções mobile e web para clientes externos utilizando tecnologias do ecossistema Javascript como: AngularJS, Cordova, React, Redux (com Redux Saga) e Typescript.
 
 ## Educação
 
 `2020`
 __Formação Fullstack Javascript, Digital House.__
 
-- Participante do programação de Formação Santander Coders 2020 com o foco em preparar 240 participantes para atuarem na área de tecnologia como pessoas desenvolvedoras. O curso abortou ferramentas como: HTML, Node.js, SQL, EJS, Scrum, etc. Ao final do curso os participantes apresentaram um sistemas desenvolvido em grupo durante os 6 meses do curso.
+- O bootcamp da Digital House oferece uma experiência de aprendizado imersiva por meio de projetos práticos e estudos de caso do mundo real, abrangendo tecnologias como: desenvolvimento web, design UX/UI, Sequelize ORM, ExpressJS, EJS, JWT e JavaScript.
 
 `Janeiro 2017 - Dezembro 2020`
 __Tecnólogo em Sistemas para Internet, FATEC Carapicuíba__ (Incompleto)
 
-- Curso superior que abrange desenvolvimento de websites, composto por matérias como: estrutura de dados, desenvolvimento mobile, engenharia e gestão de projetos, etc.
+- O curso de Sistemas para Internet na Fatec aborda habilidades essenciais para o desenvolvimento web, incluindo linguagens como HTML, CSS e JavaScript, além de tecnologias avançadas, como frameworks e soluções de comércio eletrônico com projetos práticos e um currículo alinhado com as demandas do mercado.
