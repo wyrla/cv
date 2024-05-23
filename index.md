@@ -5,7 +5,7 @@ title: Paula Nelo's CV
 # Paula Nelo
 
 <div id="webaddress">
-<a href="https://www.linkedin.com/in/paula-nelo">Linked In</a>
+<a href="https://www.linkedin.com/in/paula-nelo">LinkedIn</a>
 | <a href="https://github.com/paulanelo">GitHub</a> | paulanelo.dev@gmail.com 
 </div>
 
