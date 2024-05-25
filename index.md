@@ -5,52 +5,49 @@ title: Paula Nelo's CV
 # Paula Nelo
 
 <div id="webaddress">
-<a href="https://www.linkedin.com/in/paula-nelo">LinkedIn</a>
-| <a href="https://github.com/paulanelo">GitHub</a> | paulanelo.dev@gmail.com 
+E-mail: paulanelo.dev@gmail.com<br>
+Github: <a href="https://github.com/paulanelo">https://github.com/paulanelo</a><br>
+LinkedIn: <a href="https://www.linkedin.com/in/paula-nelo">https://www.linkedin.com/in/paula-nelo</a><br>
 </div>
 
-## Atualmente
+## Currently
 
 Full-Stack Software Developer
 
-### Tecnologias
+### Skills
 
 HTML5, JavaScript/TypeScript, React.js, Node.js, Git, TDD, Jest, Kubernetes, Cascading Style Sheets (CSS), MongoDB, AngularJS.
 
-## Experiências profissionais
+## Experience
 
-`Setembro 2020 - atual`
+`September 2020 - present`
 __Full-Stack Software Developer, TAQE.__
 
-Na TAQE atuei como desenvolvedora de software Jr./Pleno, participando ativamente do desenvolvimento e manutenção de sistema legados da empresa, utilizando ferramentas como: angularjs, ionic, angular 2, etc.; também desenvolvi MVPs para o sistema ATS da companhia contribuindo para o aumento 131% de aumento na taxa de presença em entrevistas de um dos clientes da TAQE; além contribuir com projetos mais recentes da empresa utilizando: React, Angular, MongoDB, Node.js, Git
-, Typescript, Kubernetes, etc., desenvolvendo atividades como:
-- Desenvolvimento de funcionalidades para o gerenciamento de candidatos, como: testes dinâmicos, fluxo de convites de entrevistas por whatsapp, etc.
-- Manutenção da plataforma para candidatos, atuando tanto no front-end (html, CSS e frameworks) quanto no back-end (node.js)
-- Suporte para os novos desenvolvedores no processo de onboarding
-- Planejamento e desenvolvimento de novos produtos
+At TAQE, I worked as a Junior/Mid-level Software Developer, actively involved in the development and maintenance of the company's legacy systems, using tools such as AngularJS, Ionic, Angular 2, etc. Additionally, I developed MVPs for the company's ATS system, contributing to a 131% increase in the interview attendance rate for one of TAQE's clients. Furthermore, I contributed to the company's recent projects using technologies such as React, Angular, MongoDB, Node.js, TypeScript, Kubernetes, etc., undertaking tasks such as:
 
-`Março 2020 - Setembro 2022`
-__Instrutora Assistente, Digital House__
+- Developing features for candidate management, such as dynamic tests, interview invitation flows via WhatsApp, etc.
+- Maintaining the platform for candidates
+- Providing support for new developers during the onboarding process
+- Planning and developing new products
 
-Atuei como Instrutora assistente e de co-learning, desempenhando o papel de auxiliar o instrutor generalista em sala de aula (online), assumindo responsabilidades como:
-- Gerenciamento dos alunos (realização de chamadas, identificação proativa de pontos de atenção, disponibilização de vídeo aulas)
-- Ponto focal para dúvidas assíncronas
-- Acompanhamento e auxílio técnico durante o projeto final
-- Condução de avaliação durante o processo de onboarding do curso
+`March 2020 - September 2022`
+__Full-Stack Instructor, Digital House__
 
-`Maio 2018 - Maio 2020`
-__Estágio de desenvolvimento, Visual Mix__
+Throughout my Assistant and Co-learning Instructor position, played a pivotal role in supporting the lead instructor within the online classroom environment. In this capacity, I took charge of various responsibilities:
 
-Desenvolvimento de interface para soluções mobile e web para clientes externos utilizando tecnologias do ecossistema Javascript como: AngularJS, Cordova, React, Redux (com Redux Saga) e Typescript.
+- Overseeing student management by conducting regular calls, proactively identifying areas of improvement, and providing supplementary video lessons to enhance learning experiences.
+- Offering guidance and technical assistance throughout the final project
+- Conducting assessments during the course onboarding process
+- Acting as the primary point of contact for asynchronous inquiries, promptly addressing student queries and ensuring clarity on course materials
 
-## Educação
+## Education
 
 `2020`
-__Formação Fullstack Javascript, Digital House.__
+__Fullstack Javascript Bootcamp, Digital House.__
 
-O bootcamp da Digital House oferece uma experiência de aprendizado imersiva por meio de projetos práticos e estudos de caso do mundo real, abrangendo tecnologias como: desenvolvimento web, design UX/UI, Sequelize ORM, ExpressJS, EJS, JWT e JavaScript.
+The Digital House bootcamp is an immersive learning experience through hands-on projects and real-world case studies, technologies such as: web development, UX/UI design, Sequelize ORM, ExpressJS, EJS, JWT e JavaScript.
 
-`Janeiro 2017 - Dezembro 2020`
-__Tecnólogo em Sistemas para Internet, FATEC Carapicuíba__ (Incompleto)
+`January 2017 - December 2020`
+__Bachelor's degree, Internet Systems , FATEC Carapicuíba__ (Incomplete)
 
- O curso de Sistemas para Internet na Fatec aborda habilidades essenciais para o desenvolvimento web, incluindo linguagens como HTML, CSS e JavaScript, além de tecnologias avançadas, como frameworks e soluções de comércio eletrônico com projetos práticos e um currículo alinhado com as demandas do mercado.
+Studied Systems for Internet at Fatec, gaining expertise in web development technologies such as HTML, CSS, JavaScript, and frameworks. Developed skills in creating web applications, mobile apps, and e-commerce solutions through hands-on projects and industry-relevant curriculum.
