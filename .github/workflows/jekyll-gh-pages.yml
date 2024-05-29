@@ -42,7 +42,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: "paulanelo.com.br"
+      url: ${{ vars.URL }}
     runs-on: ubuntu-latest
     needs: build
     steps:
